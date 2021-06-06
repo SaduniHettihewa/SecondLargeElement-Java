@@ -4,6 +4,8 @@ public class SecondLargest {
 
     public static void main(String[] args) {
 
+// demo for finding second large number in arry
+
         int largest = 0;
         int secontLargest = 0;
 
