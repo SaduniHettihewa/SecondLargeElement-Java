@@ -23,7 +23,7 @@ public class SecondLargest {
             }
         }
         System.out.println("second large no is : " + secontLargest);
-        System.out.println("Largest no is :"+largest);
+        
     }
 
 }
